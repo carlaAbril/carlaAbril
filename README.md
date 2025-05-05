@@ -53,5 +53,10 @@
   <img src="https://profile-counter.glitch.me/carlaAbryl/count.svg?"  />
 </div>
 
+###
+
+<img src="https://raw.githubusercontent.com/carlaAbryl/carlaAbryl/output/snake.svg" alt="Snake animation" />
+
+### 
 
 
